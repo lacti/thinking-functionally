@@ -200,10 +200,10 @@ monad란 무엇일까요?
 ---
 @title[What is the Monad?]
 
-![engineering-professor-a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem](https://memegenerator.net/instance/27499682/engineering-professor-a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem)
+![engineering-professor-a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem](images/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem.jpg)
 
 ---
-@title[]
+@title[Monad: study]
 
 무슨 말인지 하나도 모르겠군요. 이걸 어떻게 공부할 수 있을까요?
 
@@ -251,7 +251,7 @@ data Collection x = [x]
   xs >>= f = concat (map f xs)
 ```
 
-~~~가볍지도 않고 좀 생소하군요.~~~ 가장 추상화된 최소한의 정의를 조합하여 모든 개념을 구현하기 위한 기반이라고 볼 수 있지 않을까요.
+~~가볍지도 않고 좀 생소하군요.~~ 가장 추상화된 최소한의 정의를 조합하여 모든 개념을 구현하기 위한 기반이라고 볼 수 있지 않을까요.
 
 *좀 더 잘 이해하게 되는 날이 오면 이에 대한 설명에 도전해보겠습니다.*
 
