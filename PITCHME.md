@@ -9,7 +9,7 @@
 ---
 @title[Title]]
 
-### Thinking functionally.
+## Thinking functionally.
 
 네, 저도 사실 잘 모릅니다.
 
